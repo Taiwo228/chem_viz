@@ -1,2 +1,2 @@
-# chemlife_viz
-LDAvis for the "chemlife" question.
+# Visualizations for Chemistry Class Text Analysis
+LDAvis for the following questions: "chemlife," ...
